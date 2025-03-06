@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abdullahshmas09
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on some project like react
+- 🌱 I’m currently learning website Development 
 - 📫 How to reach me:
 - My Email abdullah.khalil@bitstormsolutions.com
 - My Number 03183665504  
