@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning website Development 
 - 📫 How to reach me:
-- My Email abdullah.khalil@bitstormsolutions.com
+- My Email abdullahkhalil734@gmail.com 
 - My Number 03183665504  
   
 
